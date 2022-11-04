@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "font-face": "^2.3.4",
+    "phaser": "^3.55.2"
+  }
+}
