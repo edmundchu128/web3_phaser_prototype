@@ -1,0 +1,24 @@
+{
+    "dialog": [
+        {
+            "speaker": "npc",
+            "dialogLines": "Hey Roundle! Are you heading to Kratoria?"
+        },
+        {
+            "speaker": "player",
+            "dialogLines": "Yes, do you mind showing me the way?"
+        },
+        {
+            "speaker": "npc",
+            "dialogLines": "Kratoria is heavily guarded at the moment after the Final battle. We believe that some of Kracht’s forces are still out there in Roundleverse. How about you help me out to show that I can trust you and I’ll guide you into the city."
+        },
+        {
+            "speaker": "player",
+            "dialogLines": "Deal, how can I help?"
+        },
+        {
+            "speaker": "npc",
+            "dialogLines": "The Resistance is repairing this school, would you please help me get some wood logs and hay? There’s some trees in front and you may ask the Farmer Roundle for hay."
+        }
+    ]
+}
